@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+}
+.card-img-top{
+  width:60vw;
+  height:60vh;
+  margin:auto;
+}
+.card-body{
+  height:70vh;
+  width:70vh;
+}
